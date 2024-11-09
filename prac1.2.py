@@ -2,7 +2,8 @@
 import pandas as pd
 print("IU2141230160")
 data = {
-'Name': ['AP', 'Kismat', 'Ansh'], 'Age': [21, 22, 30],
+'Name': ['AP', 'Kismat', 'Ansh'], 
+'Age': [21, 22, 30],
 'City': ['New York', 'San Francisco', 'Los Angeles']
 }
 df = pd.DataFrame(data)
