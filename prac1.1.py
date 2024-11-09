@@ -42,7 +42,7 @@ print("IU2141230160")
 predefined_array = np.array([1, 3, 4, 6, 7])
 print("Looping Over Predefined Array:")
 for element in predefined_array:
-print(element)
+  print(element)
 
 import numpy as np
 data = np.loadtxt('data.txt', delimiter=',')
